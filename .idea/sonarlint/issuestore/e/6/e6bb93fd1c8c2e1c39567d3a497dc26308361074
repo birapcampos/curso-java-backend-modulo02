@@ -1,0 +1,11 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¨ úÇ‚2J$4e0ca1c5-413c-4ef3-8c61-8e890e963e04
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8© úÇ‚2J$3767db47-06e0-4177-988e-1a09b08e6f90
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8§ úÇ‚2J$3c4084ac-c456-4c0b-9693-5229184079b9
+r	java:S106"+Replace this use of System.out by a logger.(ûÈ¸Šþÿÿÿÿ8ƒ¿üÇ‚2J$390a0045-2291-47b4-a57f-c72283bd8b8a
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¨ úÇ‚2J$3b5e981e-c96d-46be-867d-4f5db63adaf4
+r	java:S106&"+Replace this use of System.out by a logger.(æèƒíùÿÿÿÿ8ŸøüÇ‚2J$86d1ef7f-b1ef-4db2-bff6-d7189338d9c0
+¡
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ª úÇ‚2J$c15fe438-fb3b-45a6-a877-9b5403983940
