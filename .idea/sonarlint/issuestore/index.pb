@@ -101,3 +101,5 @@ F
 src/records/Point.java,a\6\a6b7f6502097956b4d6f1042ac5cbecc9dafd6e8
 I
 src/records/Execucao.java,e\1\e1b47bf6c14e801650ffe0f017590433738c671a
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
