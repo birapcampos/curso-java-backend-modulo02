@@ -107,3 +107,11 @@ I
 +src/interfaceFuncional/ExemploCompleto.java,d\8\d8a4166df80a4155b3b02eb97d5301821dc14e0a
 b
 2src/programacaoFuncional/ExemploProgFuncional.java,4\1\416b0abca9267a8447044e0305c0161ebee4a786
+`
+0src/methodReference/ExemplosMethodReference.java,c\4\c4fd38d65690bdb77a27f7395352a3f0a1f46c7f
+]
+-src/methodReference/ExemplosPorInstancia.java,9\c\9ca7d8d1018447205b6c226ff29b778b842e6235
+X
+(src/methodReference/ExemploEstatico.java,9\0\90f51c50e002733129624b99ef89ad7143d9f94a
+^
+.src/methodReference/ExemploTipoEspecifico.java,5\5\558886ae1b22304579d1ac707feb9c8d955c4f5f

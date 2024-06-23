@@ -1,0 +1,7 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨İÏúÿÿÿÿJ$03f943ee-39be-4e93-af1a-39c352518aec
+£
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(¬î¿ôÿÿÿÿÿ8õå…¬„2J$fa307ab9-3790-4c68-80fc-07fda02e9555
+†
+java:S1612">Replace this lambda with method reference 'Integer::parseInt'.(¬î¿ôÿÿÿÿÿ8ùå…¬„2J$02b53703-047e-4e6d-9d35-1722be94dc06
+l	java:S106"+Replace this use of System.out by a logger.(‹»”}8úå…¬„2J$c8e43914-2edb-468b-b41d-01f65553e6ef
