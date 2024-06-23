@@ -103,3 +103,7 @@ I
 src/records/Execucao.java,e\1\e1b47bf6c14e801650ffe0f017590433738c671a
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++src/interfaceFuncional/ExemploCompleto.java,d\8\d8a4166df80a4155b3b02eb97d5301821dc14e0a
+b
+2src/programacaoFuncional/ExemploProgFuncional.java,4\1\416b0abca9267a8447044e0305c0161ebee4a786
