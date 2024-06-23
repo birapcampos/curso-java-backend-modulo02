@@ -15,5 +15,15 @@ public class ExemploStreamFiltro {
                 .collect(Collectors.toList());
 
         System.out.println("Frutas que começam com 'M': " + frutasComM);
+
+        // Filtrando numeros pares
+        List<Integer> numeros = Arrays.asList(1,3,5,11,12,16,20,21);
+
+        List<Integer> numerosPares = numeros.stream()
+                .filter(x -> x % 2 == 0)
+                .collect(Collectors.toList());
+
+        System.out.println("Lista com os números pares: " + numerosPares);
+
     }
 }
