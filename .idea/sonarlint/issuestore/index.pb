@@ -119,3 +119,7 @@ N
 src/enums/NivelDeUrgencia.java,3\1\313c8326035de153f11e19b0594a482a993d03dd
 K
 src/enums/ExemploEnum2.java,2\0\202c52d0b8299ad2248cd6c26b017eec8ded7cf8
+S
+#src/gerarChaveUnica/ChaveUnica.java,7\4\74cf70393d04a31291b822f8efc1e8950400a629
+W
+'src/gerarChaveUnica/GeraChaveUnica.java,e\1\e1d6f225740beddaa440450ce8b7b24f4184f2b1
