@@ -1,6 +1,5 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñœŒÐ8¯ÒÐ•Š2J$80e952b8-0bda-40c9-895e-1235c1921d7d
-G	java:S106"+Replace this use of System.out by a logger.(¼÷ÓÙ8í¦Û•Š2
-{
-java:S2142
-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ï¦Û•Š2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñœŒÐ8°¿ù•Š2
+L	java:S106"+Replace this use of System.out by a logger.(Ä¨»Üÿÿÿÿÿ8µ¿ù•Š2
+]	java:S125
+"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ8µ¿ù•Š2

@@ -123,3 +123,5 @@ S
 #src/gerarChaveUnica/ChaveUnica.java,7\4\74cf70393d04a31291b822f8efc1e8950400a629
 W
 'src/gerarChaveUnica/GeraChaveUnica.java,e\1\e1d6f225740beddaa440450ce8b7b24f4184f2b1
+V
+&src/gerarChaveUnica/GeraChaveUUID.java,4\5\45e460611abfe0fe1717b40e783b3497864ec3db
